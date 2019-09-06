@@ -26,7 +26,7 @@ the shifted algorithms.
 
 See function headers for full details.
 
-- `chop` and `roundit` are is from the [chop
+- Functions `chop` and `roundit` are copied from the [chop
 repository](https://github.com/higham/chop).  See there for documentation
 and possible updated versions.
 
