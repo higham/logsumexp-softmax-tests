@@ -4,7 +4,7 @@
 About
 -----
 
-These are MATLAB program files used to genereate the test rsults in the
+These are MATLAB program files used to genereate the test results in the
 reference below.
 
 - `chop_test_softmax` is the main m-file that produces the figures for the
@@ -13,14 +13,14 @@ manuscript.
 - `bfloat_chop_test_softmax` is an alterantative that uses bfloat rather than
 fp16.
 
-- `lse_basic_high` computes lse and softmax in standard precision using basic
-algs.
+- `lse_basic_high` computes lse and softmax in standard precision using the
+basic algorithms.
 
-- `lse_chop` computes lse and softmax usinig chopped arithmetic with unshifted
-algorithms.
+- `lse_chop` computes lse and softmax usinig chopped arithmetic with the
+unshifted algorithms.
 
-- `lse_chopshift` computes lse and softmax using chopped arithmetic with shifted
-algorithms.
+- `lse_chopshift` computes lse and softmax using chopped arithmetic with
+the shifted algorithms.
 
 - `data_presoftmax.mat` holds the test data.
 
