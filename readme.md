@@ -40,8 +40,8 @@ Reference
 
 Pierre Blanchard, Desmond J. Higham and Nicholas J. Higham,
 Accurate Computation of the Log-Sum-Exp and Softmax Functions.
-MIMS Eprint 2019.xx, Manchester Institute for Mathematical
-Sciences, The University of Manchester, UK, September 2019.
+IMA J. Numer. Anal., 2020,
+https://doi.org/10.1093/imanum/draa038.
 
 License
 -------
